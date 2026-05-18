@@ -745,7 +745,7 @@ jupyter lab
 
 | 🔴 Pandas Summary | 🟠 Matplotlib Charts |
 |:-----------------:|:-------------------:|
-| ![](https://via.placeholder.com/420x220/FF0080/FFFFFF?text=🐼+Pandas+DataFrame+Stats) | ![](https://via.placeholder.com/420x220/FF6B00/FFFFFF?text=📈+Matplotlib+Bar+Charts) |
+| ![](https://via.placeholder.com/420x220/FF0080/FFFFFF?text=🐼+Pandas+DataFrame+Stats) | ![](https://github.com/geershatisaxena/Data-Analysis/blob/main/download.png) |
 
 | 🟡 Heatmap View | 🔵 Plotly Interactive |
 |:--------------:|:--------------------:|
