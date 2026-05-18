@@ -749,7 +749,7 @@ jupyter lab
 
 | 🟡 Heatmap View | 🔵 Plotly Interactive |
 |:--------------:|:--------------------:|
-| ![](https://via.placeholder.com/420x220/FFD700/333333?text=🌡️+Correlation+Heatmap) | ![](https://via.placeholder.com/420x220/00CFFF/FFFFFF?text=⚡+Plotly+Dashboard) |
+| ![](https://github.com/geershatisaxena/Data-Analysis/blob/main/Screenshot%20(16).png) | ![](https://via.placeholder.com/420x220/00CFFF/FFFFFF?text=⚡+Plotly+Dashboard) |
 
 </div>
 
