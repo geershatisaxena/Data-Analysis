@@ -836,26 +836,10 @@ This project is licensed under the **MIT License** — free to use, fork & build
 
 <br>
 
-### 🌈 Developed with Passion, Colour & Data Love 🌈
+### 🌈 Developed with Passion, Colour & Love for Data Analysis 🌈
 
 <br>
 
-<a href="https://github.com/your-username">
-  <img src="https://img.shields.io/badge/GitHub-FF0080?style=for-the-badge&logo=github&logoColor=white&labelColor=8B0057" />
-</a>
-<a href="https://linkedin.com/in/your-profile">
-  <img src="https://img.shields.io/badge/LinkedIn-FF6B00?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=8B3A00" />
-</a>
-<a href="https://twitter.com/your-handle">
-  <img src="https://img.shields.io/badge/Twitter-FFD700?style=for-the-badge&logo=twitter&logoColor=333&labelColor=8B7500" />
-</a>
-<a href="geershatisaxena110@gmail.com">
-  <img src="https://img.shields.io/badge/Email-00FF88?style=for-the-badge&logo=gmail&logoColor=333&labelColor=007A3F" />
-</a>
-
-<a href="https://geershatisaxena.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-BF00FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=5C0080" />
-</a>
 
 <br><br>
 
