@@ -801,7 +801,7 @@ jupyter lab
 
 <div align="center">
 
-> 🐛 Found a bug? → [Open an Issue](https://github.com/your-username/EDA-Project/issues) &nbsp;|&nbsp; 💡 Have an idea? → [Start a Discussion](https://github.com/your-username/EDA-Project/discussions)
+> 🐛 Found a bug? → [Open an Issue](https://github.com/your-username/EDA-Project/issues) &nbsp;|&nbsp; 💡 Have an idea? → [Start a Discussion](https://github.com/geershatisaxena/Data-Analysis)
 
 </div>
 
