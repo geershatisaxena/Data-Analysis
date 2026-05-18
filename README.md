@@ -1,4 +1,4 @@
-```markdown
+
 <!-- Header with animated gradient banner and typing effect -->
 <div align="center">
   
