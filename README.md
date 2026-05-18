@@ -1,183 +1,75 @@
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║              ANIMATED HEADER BANNER                         ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<!-- Header with animated gradient banner and typing effect -->
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=📊%20Advanced%20EDA%20Project&fontSize=60&fontAlignY=35&animation=twinkling&desc=Student%20Performance%20Analytics&descAlignY=55" width="100%" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=2000&pause=1000&color=F700FF&background=FF2E9D00&center=true&vCenter=true&width=1000&lines=✨+Exploratory+Data+Analysis+Project+✨;🐼+Pandas+%7C+📈+Matplotlib+%7C+⚡+Plotly;💡+Data+Visualization+and+Insights;🚀+Interactive+Analytics+Dashboard+Style+README;🎯+From+Raw+Data+to+Actionable+Insights" alt="Typing Animation" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:7B2FBE,100:00F5FF&height=250&section=header&text=Advanced%20EDA%20Project&fontSize=55&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=🔬%20Student%20Performance%20Analytics%20%7C%20Python%20%7C%20Pandas%20%7C%20Plotly&descSize=18&descAlignY=62&descColor=00F5FF&stroke=7B2FBE&strokeWidth=2" width="100%" />
 
-</div>
+<br>
 
-<!-- Animated Gradient Badges Row -->
-<div align="center">
-  
-  <img src="https://img.shields.io/badge/Python-3.11-FF6B6B?style=for-the-badge&logo=python&logoColor=white&labelColor=4ECDC4" />
-  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-FF6B6B?style=for-the-badge&logo=pandas&logoColor=white&labelColor=FFE66D" />
-  <img src="https://img.shields.io/badge/Matplotlib-Visualization-FF6B6B?style=for-the-badge&logo=plotly&logoColor=white&labelColor=FF6B6B" />
-  <img src="https://img.shields.io/badge/Plotly-Interactive%20Charts-FF6B6B?style=for-the-badge&logo=plotly&logoColor=white&labelColor=292F36" />
-  <img src="https://img.shields.io/badge/EDA-Complete%20Analysis-00F7FF?style=for-the-badge&logo=databricks&logoColor=white&labelColor=7B2CBF" />
-  <img src="https://img.shields.io/badge/License-MIT-FF6B6B?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=4ECDC4" />
-  
-  <br>
-  
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=FF6B6B&label=VIEWS&abbreviated=true" />
-  <img src="https://img.shields.io/github/stars/your-username/EDA-Project?style=for-the-badge&color=FFE66D&label=STARS" />
-  <img src="https://img.shields.io/github/forks/your-username/EDA-Project?style=for-the-badge&color=4ECDC4&label=FORKS" />
-  
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=1800&pause=900&color=00F5FF&background=00000000&center=true&vCenter=true&multiline=false&width=950&lines=✨+Exploratory+Data+Analysis+•+Complete+Workflow+✨;🐼+Pandas+|+📈+Matplotlib+|+⚡+Plotly+Express;💡+From+Raw+Data+→+Actionable+Insights;🚀+Interactive+Dashboards+•+Statistical+Analysis;🎯+Professional+EDA+•+Modern+Visualizations" alt="Typing SVG" />
+
+<br><br>
+
+<!-- ── BADGE ROW 1 ── -->
+<a href="#"><img src="https://img.shields.io/badge/Python-3.11+-FFD43B?style=for-the-badge&logo=python&logoColor=306998&labelColor=0D1117" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Pandas-2.x-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0D1117" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Matplotlib-3.x-11557C?style=for-the-badge&logo=matplotlib&logoColor=white&labelColor=0D1117" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Plotly-Interactive-3F4F75?style=for-the-badge&logo=plotly&logoColor=white&labelColor=0D1117" /></a>
+<a href="#"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0D1117" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0D1117" /></a>
+
+<br>
+
+<!-- ── BADGE ROW 2 ── -->
+<a href="#"><img src="https://img.shields.io/badge/EDA-Complete%20Analysis-00F5FF?style=for-the-badge&logo=databricks&logoColor=white&labelColor=7B2FBE" /></a>
+<a href="#"><img src="https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0D1117" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Status-Active-22C55E?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0D1117" /></a>
+<a href="#"><img src="https://img.shields.io/github/stars/your-username/EDA-Project?style=for-the-badge&color=FFD700&label=⭐+STARS&labelColor=0D1117" /></a>
+<a href="#"><img src="https://img.shields.io/github/forks/your-username/EDA-Project?style=for-the-badge&color=00F5FF&label=🍴+FORKS&labelColor=0D1117" /></a>
+<a href="#"><img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=7B2FBE&label=👁+VIEWS&abbreviated=true" /></a>
+
 </div>
 
 <br>
 
-<!-- Animated Gradient Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- Table of Contents with Neon Styling -->
-<div align="center">
-  
-## 🔮 **TABLE OF CONTENTS** 🔮
+---
 
-| 🚀 Section | 📊 Section | 💡 Section |
-|:----------:|:----------:|:----------:|
-| [✨ Overview](#-project-overview) | [🐼 Pandas Analysis](#-pandas-analysis) | [📌 Key Insights](#-key-insights) |
-| [📂 Dataset](#-dataset-structure) | [📈 Matplotlib](#-matplotlib-visualizations) | [📁 Structure](#-project-structure) |
-| [🛠️ Tech Stack](#️-technologies-used) | [⚡ Plotly](#-plotly-interactive-visualizations) | [⚙️ Installation](#️-installation) |
-| [🧠 Preview](#-dataset-preview) | [🔥 Code Samples](#-sample-code) | [🌟 Features](#-features) |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- Main Overview Section -->
-<div align="center">
-  
-## ✨ **PROJECT OVERVIEW** ✨
-
-</div>
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                  TABLE OF CONTENTS                          ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-  
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
-        <br/>🐍 Python
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60"/>
-        <br/>🐼 Pandas
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="60"/>
-        <br/>📈 Matplotlib
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="60"/>
-        <br/>⚡ Plotly
-      </td>
-    </tr>
-  </table>
-  
-  <br>
-  
-  <p align="center">
-    🎯 This project demonstrates a <strong style="color:#FF6B6B">complete Exploratory Data Analysis (EDA) workflow</strong> with:
-  </p>
-  
-  <code>🔹 Data Manipulation & Statistical Analysis using Pandas</code><br>
-  <code>🔹 Static Visualizations using Matplotlib</code><br>
-  <code>🔹 Interactive & Modern Charts using Plotly</code><br>
-  
-</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## 🗺️ Navigation
 
-<!-- Dataset Section with Colorful Table -->
-<div align="center">
-  
-## 📂 **DATASET STRUCTURE** 📂
-
-</div>
-
-<div align="center">
-  
-| <span style="color:#FF6B6B">📌 Column</span> | <span style="color:#4ECDC4">📝 Description</span> |
-|:--------------------------------------------:|:-------------------------------------------------:|
-| **Name** | Character Name |
-| **NET** | Networking Marks |
-| **Dev** | Development Marks |
-| **WeD** | Web Designing Marks |
-| **PWD** | Python Web Development Marks |
-| **JSC** | JavaScript Concepts Marks |
-| **DVS** | Data Visualization Skills |
-| **EVS** | Environmental Studies Marks |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- Dataset Preview -->
-<div align="center">
-  
-## 🧠 **DATASET PREVIEW** 🧠
-
-</div>
-
-```python
-mg = {
-    'Name': ["Peter", "Quagmire", "Luois", "Stewie", "Brian", "Griffins", 
-             "Giant Dog", "Meg", "Obama", "Chris", "Leg", "Putin"],
-    'NET': [51, 63, 59, 45, 85, 74, 95, 96, 23, 65, 22.2, 14],
-    'Dev': [45, 52, 23, 14, 25, 63, 9, 74, 50, 63.2, 66, 12],
-    'WeD': [36, 25, 5, 62, 19, 18, 55, 65, 44, 70, 69, 33.6],
-    'PWD': [52, 66, 23, 12, 21, 41, 52, 25, 36, 45.6, 77, 63],
-    'JSC': [25, 14, 52, 63, 45, 21, 85, 96, 45, 63, 55.3, 23],
-    'DVS': [75, 85, 96, 5, 45, 63, 47, 65, 23.6, 52, 60, 50],
-    'EVS': [30, 66, 56, 45, 32.3, 44, 51, 25, 36, 47, 58, 56]
-}
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- Tech Stack with Glowing Cards -->
-<div align="center">
-  
-## 🛠️ **TECHNOLOGIES USED** 🛠️
-
-<br>
-
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="200">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
-      <br/><strong style="color:#FFD43B">🐍 Python</strong>
-      <br/>Programming Language
-    </td>
-    <td align="center" width="200">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60"/>
-      <br/><strong style="color:#150458">🐼 Pandas</strong>
-      <br/>Data Cleaning & Analysis
-    </td>
-    <td align="center" width="200">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="60"/>
-      <br/><strong style="color:#FF6B6B">📈 Matplotlib</strong>
-      <br/>Static Charts
-    </td>
+    <th align="center">🔵 Essentials</th>
+    <th align="center">🟣 Analysis</th>
+    <th align="center">🟢 Insights</th>
   </tr>
   <tr>
-    <td align="center" width="200">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="60"/>
-      <br/><strong style="color:#3F4F75">⚡ Plotly</strong>
-      <br/>Interactive Visualization
+    <td align="center">
+      <a href="#-project-overview">✨ Overview</a><br>
+      <a href="#-dataset-structure">📂 Dataset</a><br>
+      <a href="#%EF%B8%8F-technologies-used">🛠️ Tech Stack</a><br>
+      <a href="#-dataset-preview">🧠 Data Preview</a>
     </td>
-    <td align="center" width="200">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="60"/>
-      <br/><strong style="color:#F37626">📓 Jupyter</strong>
-      <br/>Development Environment
+    <td align="center">
+      <a href="#-pandas-analysis">🐼 Pandas EDA</a><br>
+      <a href="#-matplotlib-visualizations">📈 Matplotlib</a><br>
+      <a href="#-plotly-interactive-visualizations">⚡ Plotly</a><br>
+      <a href="#-sample-code">🔥 Code Samples</a>
     </td>
-    <td align="center" width="200">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60"/>
-      <br/><strong style="color:#4ECDC4">🔢 NumPy</strong>
-      <br/>Numerical Computing
+    <td align="center">
+      <a href="#-key-insights">📌 Key Insights</a><br>
+      <a href="#-project-structure">📁 Structure</a><br>
+      <a href="#%EF%B8%8F-installation">⚙️ Installation</a><br>
+      <a href="#-features">🌟 Features</a>
     </td>
   </tr>
 </table>
@@ -186,150 +78,387 @@ mg = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- EDA Workflow with Mermaid -->
-<div align="center">
-  
-## 📊 **EXPLORATORY DATA ANALYSIS WORKFLOW** 📊
+---
 
-</div>
-
-<div align="center">
-
-```mermaid
-flowchart TD
-    A[<font size="4"><b>📥 Load Dataset</b></font>] --> B[<font size="4"><b>🧹 Data Cleaning</b></font>]
-    B --> C[<font size="4"><b>📈 Statistical Analysis</b></font>]
-    C --> D[<font size="4"><b>📊 Matplotlib Visualizations</b></font>]
-    D --> E[<font size="4"><b>⚡ Plotly Interactive Charts</b></font>]
-    E --> F[<font size="4"><b>💡 Insights & Conclusions</b></font>]
-    
-    style A fill:#FF6B6B,stroke:#333,stroke-width:2px,color:#fff
-    style B fill:#4ECDC4,stroke:#333,stroke-width:2px,color:#fff
-    style C fill:#FFE66D,stroke:#333,stroke-width:2px,color:#333
-    style D fill:#FF6B6B,stroke:#333,stroke-width:2px,color:#fff
-    style E fill:#4ECDC4,stroke:#333,stroke-width:2px,color:#fff
-    style F fill:#FFE66D,stroke:#333,stroke-width:2px,color:#333
-```
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- Pandas Analysis -->
-<div align="center">
-  
-## 🐼 **PANDAS ANALYSIS** 🐼
-
-</div>
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                   PROJECT OVERVIEW                          ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-  
-| <span style="color:#FF6B6B">✔️ Operations Performed</span> |
-|:----------------------------------------------------------:|
-| 📥 Dataset Creation |
-| 🔍 Data Inspection |
-| 📏 Shape & Information Analysis |
-| ❓ Missing Value Checking |
-| 📊 Statistical Summary |
-| 🔄 Sorting & Filtering |
-| 📈 Mean / Median / Mode Calculations |
-| 🔗 Correlation Analysis |
-| 🔢 Aggregation Operations |
 
-</div>
+## ✨ Project Overview
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%">
 
-<!-- Matplotlib Visualizations -->
-<div align="center">
-  
-## 📈 **MATPLOTLIB VISUALIZATIONS** 📈
+<br>
 
-</div>
-
-<div align="center">
-  
-| <span style="color:#4ECDC4">🎨 Charts Created</span> |
-|:----------------------------------------------------:|
-| 📊 Bar Charts |
-| 📉 Line Graphs |
-| 🥧 Pie Charts |
-| 📦 Boxplots |
-| 📍 Scatter Plots |
-| 📚 Histograms |
-| 🌡️ Heatmaps |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- Plotly Interactive -->
-<div align="center">
-  
-## ⚡ **PLOTLY INTERACTIVE VISUALIZATIONS** ⚡
-
-</div>
-
-<div align="center">
-  
-| <span style="color:#FFE66D">🎮 Interactive Charts</span> |
-|:-------------------------------------------------------:|
-| Dynamic Scatter Plot |
-| Interactive Bar Graph |
-| 3D Charts |
-| Interactive Pie Charts |
-| Hover Enabled Analytics |
-| Zoomable Graphs |
-| Dashboard Style Charts |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- Sample Code Section -->
-<div align="center">
-  
-## 🔥 **SAMPLE CODE** 🔥
-
-</div>
-
-<!-- Three Column Code Blocks -->
 <table>
   <tr>
-    <td width="33%" align="center"><strong style="color:#FF6B6B">🐼 Pandas Analysis</strong></td>
-    <td width="33%" align="center"><strong style="color:#4ECDC4">📈 Matplotlib Charts</strong></td>
-    <td width="33%" align="center"><strong style="color:#FFE66D">⚡ Plotly Interactive</strong></td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/><br>
+      <sub><b>🐍 Python</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55"/><br>
+      <sub><b>🐼 Pandas</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="55"/><br>
+      <sub><b>📈 Matplotlib</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="55"/><br>
+      <sub><b>⚡ Plotly</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="55"/><br>
+      <sub><b>📓 Jupyter</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55"/><br>
+      <sub><b>🔢 NumPy</b></sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+> 🎯 **A complete, professional Exploratory Data Analysis (EDA) workflow built with Python's most powerful data science libraries.**
+
+<br>
+
+<table>
+  <tr>
+    <td>🔹 <b>Data Manipulation & Statistical Analysis</b> using Pandas</td>
   </tr>
   <tr>
-    <td width="33%">
-      
+    <td>🔹 <b>Static & Publication-Ready Visualizations</b> using Matplotlib</td>
+  </tr>
+  <tr>
+    <td>🔹 <b>Interactive & Modern Dashboard-Style Charts</b> using Plotly Express</td>
+  </tr>
+  <tr>
+    <td>🔹 <b>Correlation Analysis, Aggregations & Descriptive Statistics</b></td>
+  </tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                  DATASET STRUCTURE                          ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+## 📂 Dataset Structure
+
+<br>
+
+| 🏷️ Column | 📝 Full Name | 📊 Description |
+|:---------:|:------------:|:--------------:|
+| **Name** | Character Name | Student/Character Identifier |
+| **NET** | Networking | Networking Marks (0–100) |
+| **Dev** | Development | Development Marks (0–100) |
+| **WeD** | Web Designing | Web Design Marks (0–100) |
+| **PWD** | Python Web Dev | Python Web Development Marks (0–100) |
+| **JSC** | JavaScript | JavaScript Concepts Marks (0–100) |
+| **DVS** | Data Viz Skills | Data Visualization Marks (0–100) |
+| **EVS** | Env. Studies | Environmental Studies Marks (0–100) |
+
+<br>
+
+![Subjects](https://img.shields.io/badge/Subjects-7%20Columns-00F5FF?style=flat-square&labelColor=0D1117)
+![Students](https://img.shields.io/badge/Records-12%20Students-7B2FBE?style=flat-square&labelColor=0D1117)
+![Type](https://img.shields.io/badge/Type-Academic%20Performance-FFD43B?style=flat-square&labelColor=0D1117)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                   DATASET PREVIEW                           ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+## 🧠 Dataset Preview
+
+</div>
+
+```python
+# 📦 Raw Dataset — Student Performance Records
+mg = {
+    'Name': ["Peter", "Quagmire", "Luois", "Stewie", "Brian", "Griffins",
+             "Giant Dog", "Meg", "Obama", "Chris", "Leg", "Putin"],
+
+    'NET': [51,   63,   59,   45,   85,   74,   95,   96,   23,   65,   22.2, 14  ],
+    'Dev': [45,   52,   23,   14,   25,   63,   9,    74,   50,   63.2, 66,   12  ],
+    'WeD': [36,   25,   5,    62,   19,   18,   55,   65,   44,   70,   69,   33.6],
+    'PWD': [52,   66,   23,   12,   21,   41,   52,   25,   36,   45.6, 77,   63  ],
+    'JSC': [25,   14,   52,   63,   45,   21,   85,   96,   45,   63,   55.3, 23  ],
+    'DVS': [75,   85,   96,   5,    45,   63,   47,   65,   23.6, 52,   60,   50  ],
+    'EVS': [30,   66,   56,   45,   32.3, 44,   51,   25,   36,   47,   58,   56  ]
+}
+
+import pandas as pd
+gh = pd.DataFrame(mg)
+print(gh.head())
+```
+
+<div align="center">
+
+> 💡 **12 students · 7 subject scores · Mixed real-number grades**
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    TECHNOLOGIES                             ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+## 🛠️ Technologies Used
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="180">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/><br><br>
+      <b>🐍 Python 3.11+</b><br>
+      <sub>Core Programming Language</sub><br><br>
+      <img src="https://img.shields.io/badge/-Primary%20Lang-FFD43B?style=flat-square&labelColor=0D1117">
+    </td>
+    <td align="center" width="180">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60"/><br><br>
+      <b>🐼 Pandas</b><br>
+      <sub>Data Cleaning & Analysis</sub><br><br>
+      <img src="https://img.shields.io/badge/-DataFrame%20Engine-150458?style=flat-square&labelColor=0D1117">
+    </td>
+    <td align="center" width="180">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="60"/><br><br>
+      <b>📈 Matplotlib</b><br>
+      <sub>Static Visualizations</sub><br><br>
+      <img src="https://img.shields.io/badge/-Chart%20Library-11557C?style=flat-square&labelColor=0D1117">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="180">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="60"/><br><br>
+      <b>⚡ Plotly Express</b><br>
+      <sub>Interactive Charts</sub><br><br>
+      <img src="https://img.shields.io/badge/-Interactive%20Viz-3F4F75?style=flat-square&labelColor=0D1117">
+    </td>
+    <td align="center" width="180">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="60"/><br><br>
+      <b>📓 Jupyter Notebook</b><br>
+      <sub>Dev Environment</sub><br><br>
+      <img src="https://img.shields.io/badge/-IDE-F37626?style=flat-square&labelColor=0D1117">
+    </td>
+    <td align="center" width="180">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60"/><br><br>
+      <b>🔢 NumPy</b><br>
+      <sub>Numerical Computing</sub><br><br>
+      <img src="https://img.shields.io/badge/-Math%20Engine-4ECDC4?style=flat-square&labelColor=0D1117">
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    EDA WORKFLOW                             ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+## 📊 EDA Workflow
+
+</div>
+
+```mermaid
+flowchart LR
+    A([📥 Load Dataset]) --> B([🧹 Data Cleaning])
+    B --> C([📈 Statistical Analysis])
+    C --> D([📊 Matplotlib Charts])
+    D --> E([⚡ Plotly Interactive])
+    E --> F([💡 Insights & Conclusions])
+
+    style A fill:#7B2FBE,stroke:#00F5FF,stroke-width:2px,color:#fff
+    style B fill:#0D7377,stroke:#00F5FF,stroke-width:2px,color:#fff
+    style C fill:#14FFEC,stroke:#0D1117,stroke-width:2px,color:#0D1117
+    style D fill:#7B2FBE,stroke:#00F5FF,stroke-width:2px,color:#fff
+    style E fill:#0D7377,stroke:#00F5FF,stroke-width:2px,color:#fff
+    style F fill:#14FFEC,stroke:#0D1117,stroke-width:2px,color:#0D1117
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                   PANDAS ANALYSIS                           ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+## 🐼 Pandas Analysis
+
+<br>
+
+<table>
+  <tr><th align="center">✔️ Operations Performed</th><th align="center">📦 Method Used</th></tr>
+  <tr><td>📥 Dataset Creation</td><td><code>pd.DataFrame()</code></td></tr>
+  <tr><td>🔍 Data Inspection</td><td><code>.head() / .tail() / .info()</code></td></tr>
+  <tr><td>📏 Shape & Size Analysis</td><td><code>.shape / .size / .ndim</code></td></tr>
+  <tr><td>❓ Missing Value Check</td><td><code>.isnull().sum()</code></td></tr>
+  <tr><td>📊 Statistical Summary</td><td><code>.describe()</code></td></tr>
+  <tr><td>🔄 Sorting & Filtering</td><td><code>.sort_values() / .loc[]</code></td></tr>
+  <tr><td>📈 Mean / Median / Mode</td><td><code>.mean() / .median() / .mode()</code></td></tr>
+  <tr><td>🔗 Correlation Analysis</td><td><code>.corr(numeric_only=True)</code></td></tr>
+  <tr><td>🔢 Aggregation Operations</td><td><code>.groupby() / .agg()</code></td></tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║               MATPLOTLIB VISUALIZATIONS                     ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+## 📈 Matplotlib Visualizations
+
+<br>
+
+<table>
+  <tr>
+    <td align="center">📊 <b>Bar Charts</b><br><sub>Subject-wise comparison</sub></td>
+    <td align="center">📉 <b>Line Graphs</b><br><sub>Trend analysis</sub></td>
+    <td align="center">🥧 <b>Pie Charts</b><br><sub>Score distribution</sub></td>
+    <td align="center">📦 <b>Boxplots</b><br><sub>Outlier detection</sub></td>
+  </tr>
+  <tr>
+    <td align="center">📍 <b>Scatter Plots</b><br><sub>Relationship mapping</sub></td>
+    <td align="center">📚 <b>Histograms</b><br><sub>Score frequency</sub></td>
+    <td align="center">🌡️ <b>Heatmaps</b><br><sub>Correlation matrix</sub></td>
+    <td align="center">🎨 <b>Subplots</b><br><sub>Multi-chart grids</sub></td>
+  </tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║               PLOTLY INTERACTIVE CHARTS                     ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+## ⚡ Plotly Interactive Visualizations
+
+<br>
+
+<table>
+  <tr>
+    <td align="center">🔵 <b>Dynamic Scatter Plot</b><br><sub>Hover-enabled analytics</sub></td>
+    <td align="center">🟣 <b>Interactive Bar Graph</b><br><sub>Zoomable & filterable</sub></td>
+    <td align="center">🟢 <b>3D Charts</b><br><sub>Multi-dimensional view</sub></td>
+  </tr>
+  <tr>
+    <td align="center">🟡 <b>Interactive Pie Charts</b><br><sub>Click-to-isolate slices</sub></td>
+    <td align="center">🔴 <b>Bubble Charts</b><br><sub>Size-encoded metrics</sub></td>
+    <td align="center">⚪ <b>Dashboard-Style Layout</b><br><sub>Multi-chart canvas</sub></td>
+  </tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                   SAMPLE CODE                               ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+## 🔥 Sample Code
+
+</div>
+
+<table>
+  <tr>
+    <th align="center">🐼 Pandas Analysis</th>
+    <th align="center">📈 Matplotlib Charts</th>
+    <th align="center">⚡ Plotly Interactive</th>
+  </tr>
+  <tr>
+    <td valign="top">
+
 ```python
 import pandas as pd
 
-# Creating DataFrame
+# Create DataFrame
 gh = pd.DataFrame(mg)
 
 # Statistical Summary
 print(gh.describe())
 
 # Correlation Matrix
-print(gh.corr(numeric_only=True))
+corr = gh.corr(numeric_only=True)
+print(corr)
+
+# Top scorers in NET
+top = gh.nlargest(3, 'NET')
+print(top[['Name','NET']])
 ```
-    </td>
-    <td width="33%">
-      
+
+</td>
+    <td valign="top">
+
 ```python
 import matplotlib.pyplot as plt
 
-plt.figure(figsize=(10,5))
-plt.bar(gh['Name'], gh['NET'])
-plt.xticks(rotation=45)
-plt.title('Networking Scores')
+fig, ax = plt.subplots(figsize=(10, 5))
+bars = ax.bar(
+    gh['Name'],
+    gh['NET'],
+    color='#7B2FBE',
+    edgecolor='#00F5FF'
+)
+ax.set_title('Networking Scores',
+             color='#00F5FF', pad=12)
+plt.xticks(rotation=45, ha='right')
+plt.tight_layout()
 plt.show()
 ```
-    </td>
-    <td width="33%">
-      
+
+</td>
+    <td valign="top">
+
 ```python
 import plotly.express as px
 
@@ -339,215 +468,280 @@ fig = px.scatter(
     y='Dev',
     color='Name',
     size='DVS',
-    title='Interactive Analysis'
+    hover_data=['JSC','EVS'],
+    title='📊 Interactive Analysis',
+    template='plotly_dark'
 )
-
+fig.update_layout(
+    title_font_color='#00F5FF'
+)
 fig.show()
 ```
-    </td>
+
+</td>
   </tr>
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- Key Insights -->
-<div align="center">
-  
-## 📌 **KEY INSIGHTS** 📌
+---
 
-</div>
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    KEY INSIGHTS                             ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-  
-| <span style="color:#FF6B6B">💡 Insight</span> | <span style="color:#4ECDC4">🔍 Finding</span> |
-|:---------------------------------------------:|:---------------------------------------------:|
-| 🎯 **Performance Correlation** | Students/characters with strong networking scores often perform well in development |
-| 📊 **Interactive Advantage** | Interactive visualizations make trend identification significantly easier |
-| 🔗 **Dependency Mapping** | Correlation analysis helps identify subject dependencies |
-| 🚀 **User Engagement** | Plotly dashboards improve user engagement and understanding |
+
+## 📌 Key Insights
+
+<br>
+
+| 💡 Insight | 🔍 Finding |
+|:----------:|:----------:|
+| 🎯 **Performance Correlation** | Students with strong Networking scores often excel in Development too |
+| 📊 **Interactive Advantage** | Plotly visualizations make trend identification significantly faster |
+| 🔗 **Subject Dependencies** | Correlation analysis reveals hidden academic subject dependencies |
+| 🚀 **Engagement Boost** | Dashboard-style charts dramatically improve data comprehension |
+| 📈 **Score Distribution** | Boxplots expose outliers and variance across subject categories |
+| 🧮 **Statistical Power** | Descriptive stats (mean/median/mode) uncover central performance patterns |
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- Project Structure -->
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                  PROJECT STRUCTURE                          ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
 <div align="center">
-  
-## 📁 **PROJECT STRUCTURE** 📁
+
+## 📁 Project Structure
 
 </div>
 
 ```bash
-📦 EDA-Project
- ┣ 📂 pandas_analysis
- ┃ ┗ 📜 pandas_eda.ipynb
- ┣ 📂 matplotlib_visualizations
- ┃ ┗ 📜 matplotlib_eda.ipynb
- ┣ 📂 plotly_visualizations
- ┃ ┗ 📜 plotly_eda.ipynb
- ┣ 📂 data
- ┃ ┗ 📜 student_performance.csv
- ┣ 📂 images
- ┃ ┣ 📜 dashboard.png
- ┃ ┗ 📜 plots.png
- ┣ 📜 README.md
- ┗ 📜 requirements.txt
+📦 EDA-Project/
+ ┃
+ ┣ 📂 pandas_analysis/
+ ┃  ┗ 📜 pandas_eda.ipynb          # Data cleaning, stats, correlation
+ ┃
+ ┣ 📂 matplotlib_visualizations/
+ ┃  ┗ 📜 matplotlib_eda.ipynb      # Bar, Line, Pie, Box, Heatmap
+ ┃
+ ┣ 📂 plotly_visualizations/
+ ┃  ┗ 📜 plotly_eda.ipynb          # Interactive & 3D charts
+ ┃
+ ┣ 📂 data/
+ ┃  ┗ 📜 student_performance.csv   # Raw dataset
+ ┃
+ ┣ 📂 images/
+ ┃  ┣ 📜 dashboard.png
+ ┃  ┗ 📜 plots.png
+ ┃
+ ┣ 📜 README.md                    # ← You are here
+ ┗ 📜 requirements.txt             # pip dependencies
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- Installation -->
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    INSTALLATION                             ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
 <div align="center">
-  
-## ⚙️ **INSTALLATION** ⚙️
+
+## ⚙️ Installation
 
 </div>
 
-<div align="center">
-  
-### **1️⃣ Clone Repository**
+**1️⃣ Clone Repository**
+
 ```bash
 git clone https://github.com/your-username/EDA-Project.git
 cd EDA-Project
 ```
 
-### **2️⃣ Install Dependencies**
+**2️⃣ Install Dependencies**
+
 ```bash
 pip install pandas matplotlib plotly numpy jupyter
+# or use requirements.txt
+pip install -r requirements.txt
 ```
 
-### **3️⃣ Run Notebook**
+**3️⃣ Launch Jupyter Notebook**
+
 ```bash
 jupyter notebook
+# Open any .ipynb file from the folders above
 ```
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- Features Section -->
 <div align="center">
-  
-## 🌟 **FEATURES** 🌟
 
-</div>
-
-<div align="center">
-  
-| <span style="color:#FF6B6B">✅ Feature</span> | <span style="color:#4ECDC4">📝 Description</span> |
-|:---------------------------------------------:|:-------------------------------------------------:|
-| 🎯 **Professional Workflow** | Clean and professional EDA workflow |
-| 📊 **Interactive Analytics** | Interactive visual analytics with Plotly |
-| 👶 **Beginner Friendly** | Beginner-friendly code structure |
-| 🚀 **Advanced Techniques** | Advanced visualization techniques |
-| 🎨 **Modern Design** | Professional GitHub README design |
-| ✨ **Animated Elements** | Animated typing effects and badges |
+> ✅ **Python 3.8+** required · Works on **Windows, macOS & Linux**
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- Screenshots Section -->
-<div align="center">
-  
-## 📷 **SCREENSHOTS** 📷
+---
 
-</div>
-
-<div align="center">
-  
-| <span style="color:#FFE66D">Dashboard View</span> | <span style="color:#4ECDC4">Interactive Plots</span> |
-|:-------------------------------------------------:|:----------------------------------------------------:|
-| ![Dashboard](https://via.placeholder.com/400x200?text=Dashboard+View) | ![Plot](https://via.placeholder.com/400x200?text=Interactive+Plots) |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- Future Improvements -->
-<div align="center">
-  
-## 🚀 **FUTURE IMPROVEMENTS** 🚀
-
-</div>
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                      FEATURES                               ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-  
-- 🤖 Add Machine Learning Models
-- 🌐 Build Streamlit Dashboard
-- ☁️ Deploy Interactive App
-- 📡 Add Real-Time Data Analysis
-- 📊 Add Statistical Hypothesis Testing
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- Contribution -->
-<div align="center">
-  
-## 🤝 **CONTRIBUTION** 🤝
-
-</div>
-
-<div align="center">
-  
-Contributions are **welcome**! 
-
-If you'd like to improve the project:
-
-1. 🔱 Fork the repository
-2. 🌿 Create a new branch
-3. 💾 Commit your changes
-4. 📤 Push the branch
-5. 🔄 Open a Pull Request
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- License -->
-<div align="center">
-  
-## 📜 **LICENSE** 📜
-
-</div>
-
-<div align="center">
-  
-This project is licensed under the **MIT License**.
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- Author Footer with Animated Social Links -->
-<div align="center">
-  
-## 💻 **AUTHOR** 💻
-
-### 🌟 **Developed with Passion for Data Analytics** 🌟
+## 🌟 Features
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=FF6B6B" />
-  </a>
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4ECDC4" />
-  </a>
-  <a href="https://twitter.com/your-handle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=FFE66D" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF6B6B" />
-  </a>
+<table>
+  <tr>
+    <td align="center" width="200">🎯<br><b>Professional Workflow</b><br><sub>Clean, structured EDA pipeline</sub></td>
+    <td align="center" width="200">⚡<br><b>Interactive Analytics</b><br><sub>Hover, zoom, filter in Plotly</sub></td>
+    <td align="center" width="200">👶<br><b>Beginner Friendly</b><br><sub>Well-commented clean code</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="200">🚀<br><b>Advanced Techniques</b><br><sub>Heatmaps, 3D, correlation</sub></td>
+    <td align="center" width="200">🎨<br><b>Modern Design</b><br><sub>Dark-themed premium charts</sub></td>
+    <td align="center" width="200">✨<br><b>Fully Documented</b><br><sub>Step-by-step explanations</sub></td>
+  </tr>
+</table>
+
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    SCREENSHOTS                              ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+## 📷 Screenshots
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+the+project!;⭐+Star+the+repository+if+you+liked+it!;🚀+Keep+Learning+Data+Science+and+Analytics;💡+Stay+Curious,+Stay+Analytical!" />
+| 🖥️ Dashboard View | 📊 Interactive Plots |
+|:-----------------:|:-------------------:|
+| ![Dashboard](https://via.placeholder.com/420x220/7B2FBE/FFFFFF?text=📊+Dashboard+View) | ![Plot](https://via.placeholder.com/420x220/0D7377/FFFFFF?text=⚡+Interactive+Plotly+Charts) |
+| Plotly multi-chart layout | Hover-enabled scatter & bar |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                 FUTURE IMPROVEMENTS                         ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+## 🚀 Future Improvements
+
+<br>
+
+| 🔮 Roadmap Item | 📅 Priority |
+|:---------------:|:----------:|
+| 🤖 Add Machine Learning Models (Regression, Clustering) | High |
+| 🌐 Build Streamlit Interactive Web Dashboard | High |
+| ☁️ Deploy App on Streamlit Cloud / Heroku | Medium |
+| 📡 Add Real-Time Data Ingestion Pipeline | Medium |
+| 📊 Statistical Hypothesis Testing (t-test, ANOVA) | Medium |
+| 🧪 Automated EDA with ydata-profiling | Low |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    CONTRIBUTION                             ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+## 🤝 Contribution
+
+Contributions are **always welcome!** 🙌
+
+</div>
+
+1. 🔱 **Fork** the repository
+2. 🌿 **Create** a new feature branch → `git checkout -b feature/amazing-feature`
+3. 💾 **Commit** your changes → `git commit -m "✨ Add amazing feature"`
+4. 📤 **Push** to the branch → `git push origin feature/amazing-feature`
+5. 🔄 **Open a Pull Request** and describe your changes
+
+<div align="center">
+
+> 💬 Found a bug? Open an [Issue](https://github.com/your-username/EDA-Project/issues)!
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                      LICENSE                                ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+## 📜 License
+
+This project is licensed under the **MIT License** — free to use, modify & distribute.
+
+[![MIT License](https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0D1117)](LICENSE)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                       AUTHOR FOOTER                         ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+## 💻 Author
+
+### 🌟 Developed with Passion for Data Analytics 🌟
+
+<br>
+
+<a href="https://github.com/your-username">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=7B2FBE" />
+</a>
+<a href="https://linkedin.com/in/your-profile">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
+</a>
+<a href="https://twitter.com/your-handle">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117" />
+</a>
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
+</a>
+<a href="https://kaggle.com/your-profile">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0D1117" />
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1800&pause=900&color=00F5FF&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+the+project!+🙌;⭐+Star+the+repo+if+it+helped+you!;🚀+Keep+learning+Data+Science!;💡+Stay+curious,+stay+analytical!" />
 
 <br>
 
@@ -556,8 +750,6 @@ This project is licensed under the **MIT License**.
 
 <br>
 
-<!-- Animated Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,50:0D7377,100:00F5FF&height=120&section=footer&text=Happy%20Analyzing!%20📊&fontSize=28&fontColor=FFFFFF&fontAlignY=65&animation=fadeIn" width="100%" />
 
 </div>
-```
