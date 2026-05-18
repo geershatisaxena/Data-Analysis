@@ -745,7 +745,7 @@ jupyter lab
 
 | 🔴 Pandas Summary | 🟠 Matplotlib Charts |
 |:-----------------:|:-------------------:|
-| ![](https://github.com/geershatisaxena/Data-Analysis/blob/main/Screenshot%20(14).png) | ![](https://github.com/geershatisaxena/Data-Analysis/blob/main/download.png) |
+| ![](https://github.com/geershatisaxena/Data-Analysis/blob/main/Screenshot%20(14).png) | ![](https://github.com/geershatisaxena/Data-Analysis/blob/main/mpt.png) |
 
 | 🟡 Heatmap View | 🔵 Plotly Interactive |
 |:--------------:|:--------------------:|
