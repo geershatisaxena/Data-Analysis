@@ -852,9 +852,7 @@ This project is licensed under the **MIT License** — free to use, fork & build
 <a href="mailto:your-email@example.com">
   <img src="https://img.shields.io/badge/Email-00FF88?style=for-the-badge&logo=gmail&logoColor=333&labelColor=007A3F" />
 </a>
-<a href="https://kaggle.com/your-profile">
-  <img src="https://img.shields.io/badge/Kaggle-00CFFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=006080" />
-</a>
+
 <a href="https://your-portfolio.com">
   <img src="https://img.shields.io/badge/Portfolio-BF00FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=5C0080" />
 </a>
