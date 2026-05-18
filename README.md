@@ -70,7 +70,7 @@
     <td align="center">
       <a href="#-matplotlib-visualizations">📈 Matplotlib</a><br>
       <a href="#-plotly-interactive-visualizations">⚡ Plotly</a><br>
-      <a href="#-screenshots">📷 Screenshots</a>
+      <a href="https://github.com/geershatisaxena/Data-Analysis/blob/main/download.png">📷 Screenshots</a>
     </td>
     <td align="center">
       <a href="#-key-insights">📌 Insights</a><br>
