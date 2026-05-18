@@ -853,7 +853,7 @@ This project is licensed under the **MIT License** — free to use, fork & build
   <img src="https://img.shields.io/badge/Email-00FF88?style=for-the-badge&logo=gmail&logoColor=333&labelColor=007A3F" />
 </a>
 
-<a href="https://your-portfolio.com">
+<a href="https://geershatisaxena.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-BF00FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=5C0080" />
 </a>
 
