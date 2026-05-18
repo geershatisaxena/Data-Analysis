@@ -849,7 +849,7 @@ This project is licensed under the **MIT License** — free to use, fork & build
 <a href="https://twitter.com/your-handle">
   <img src="https://img.shields.io/badge/Twitter-FFD700?style=for-the-badge&logo=twitter&logoColor=333&labelColor=8B7500" />
 </a>
-<a href="mailto:your-geershatisaxena110@gmail.com">
+<a href="geershatisaxena110@gmail.com">
   <img src="https://img.shields.io/badge/Email-00FF88?style=for-the-badge&logo=gmail&logoColor=333&labelColor=007A3F" />
 </a>
 
